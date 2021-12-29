@@ -34,7 +34,7 @@ Version Control
 
 Learnings
 
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![GreatLearning](https://img.shields.io/badge/-GreatLearning-blue-A435F0?style=for-the-badge&logo=GreatLearning&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![GreatLearning](https://img.shields.io/badge/-GreatLearning-A435F0?style=for-the-badge&logo=GreatLearning&logoColor=white)
 
 
 
