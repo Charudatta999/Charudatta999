@@ -65,4 +65,5 @@ Follow my socials!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charudatta999&theme=blue-green">
 
-तपस🔥
+##तपस🔥
+![Snake animation](https://github.com/charudatta999/charudatta999/blob/output/github-contribution-grid-snake.svg)
