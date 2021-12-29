@@ -24,10 +24,6 @@ Frameworks
 
 ![django](https://img.shields.io/badge/django-%23000.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23000.svg?style=for-the-badge&logo=Laravel&logoColor=red) 
 
-Design
-
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-EC1C24.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
 IDEs
 
 ![PhpStrom](https://img.shields.io/badge/Php%20Strom-3DDC84.svg?style=for-the-badge&logo=Php%20Strom&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -38,7 +34,7 @@ Version Control
 
 Learnings
 
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![GreatLearning](https://img.shields.io/badge/-GreatLearning-blue-A435F0?style=for-the-badge&logo=GreatLearning&logoColor=white)
 
 
 
@@ -46,7 +42,9 @@ Database
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+other
 
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-EC1C24.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 
 
 ## 📫 How to reach me:
