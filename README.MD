@@ -53,7 +53,7 @@ Database
 
 Follow my socials!
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Rutwik on LinkedIn" title="Follow Rutwik on LinkedIn"/>](https://www.linkedin.com/in/tanvi-bhosale-07/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Rutwik on LinkedIn" title="Follow Rutwik on LinkedIn"/>](https://www.linkedin.com/in/charudatta-jadhav-161964150/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rutwik on Instagram" title="Follow Rutwik on Instagram"/>](https://www.instagram.com/_charudatta/)
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
@@ -67,6 +67,7 @@ Follow my socials!
  </div>
 
 <div>
- <h1>तपस🔥</h1>
+
 <img src="https://github.com/charudatta999/charudatta999/blob/output/github-contribution-grid-snake.svg">
 </div>
+ <h1>तपस🔥</h1>
