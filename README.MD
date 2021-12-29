@@ -61,8 +61,10 @@ Follow my socials!
 
 ## 📊 My Github stats
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=charudatta999&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=charudatta999&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 ## तपस🔥
+<div>
 ![Snake animation](https://github.com/charudatta999/charudatta999/blob/output/github-contribution-grid-snake.svg)
+</div>
