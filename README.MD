@@ -35,7 +35,7 @@ Version Control
 Learnings
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![GreatLearning](https://img.shields.io/badge/-GreatLearning-A435F0?style=for-the-badge&logo=GreatLearning&logoColor=white)
-
+![NPTEL](https://img.shields.io/badge/-NPTEL-red?style=for-the-badge&logo=NPTEL&logoColor=white)
 
 
 Database
