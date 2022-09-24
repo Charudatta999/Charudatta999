@@ -7,10 +7,10 @@
 
 
 
-- 🌱 I’m currently learning Blockchain 🔗
+- 🌱 I’m currently learning C++,Unix System Programming 🔗
 - 👯 I’m looking to collaborate with others
 - 📫 How to reach me: Email - charudatta.jadhav2299@gmail.com
-- 🥅 2022 Goals: Learn More about Blockchain technology and DevOps.
+- 🥅 2022 Goals: Learn More about System Programming and DevOps.
 - ⚡ My activites: Swiming 🏊‍♂️, Thinking🤔, Volleyball 🏐, Cooking 🥗,Reading 📖
 
 
